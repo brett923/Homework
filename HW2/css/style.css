@@ -1,13 +1,13 @@
 body{
-  margin: 0 auto;
-  background-color: #fe7701;
-  height: 1340px;
-  width: 1260px;
+  background-color: #fe7701;  
+  margin: 0;
+  padding: 0;
 }
 
 .content{
-  margin: 0 150px;
+  margin: 0 auto;
   background-color: #fe7701;
+  width: 960px;
 }
 
 .clear{
@@ -228,7 +228,6 @@ footer{
 }
 
 footer .content{
-  margin: 0 150px;
   background-color: #404040;
 }
 
